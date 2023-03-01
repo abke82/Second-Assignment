@@ -32,7 +32,8 @@ In this assignment, you will build a simple Java application that connects to a 
 
 ## Notes
 1. This project uses Gradle by default, but you are allowed to create a new project and use Maven as your package manager instead.
-2. You can learn more about the Weather API by reading its official documentation at https://www.weatherapi.com/docs/. You can also experiment with the API by visiting the API Explorer tab in the website.
+2. 
+3. You can learn more about the Weather API by reading its official documentation at https://www.weatherapi.com/docs/. You can also experiment with the API by visiting the API Explorer tab in the website.
 3. Your report should primarily be focused on the research you conducted on the JSON data format and your chosen JSON library.
 4. Your report doesn't need to follow a specific report template, but it is recommended that you familiarize yourself with these templates before writing your report.
 
